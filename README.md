@@ -59,13 +59,13 @@ Using TextBlob, each tweet is assigned:
 - Neutral sentiment
 Results are stored in new columns for easy interpretation.
 
-## 📈 Key Insights
+## Key Insights
 
 - Many tweets exhibited negative tone (common in public feedback).
 - Cleaned text greatly improved sentiment consistency.
 - Stemming reduced vocabulary size and improved classification clarity.
 
-## ▶️ How to Run
+## How to Run
 1. Install packages
 ```bash
   pip install pandas numpy nltk textblob matplotlib seaborn

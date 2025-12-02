@@ -11,6 +11,7 @@ The goal is to demonstrate data-handling, transformation, analytics thinking, an
   Explain how analyzing the data helps answer business-relevant questions, provide actionable insights, or build a foundation for data-driven decision making.
 
 ## 🗂️ Project Structure / Repository Contents  
+
 / (root)
 ├── data/
 │ ├── raw/ … (original dataset files, if small enough or link to dataset)

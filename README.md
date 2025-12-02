@@ -17,6 +17,7 @@ This project was developed as part of a Data Analytics internship task and showc
 The dataset used is twitter_training.csv, containing:
 
 | Column	| Description |
+|:---:|:---:|
 | ID | Unique tweet ID |
 | Category | Labeled sentiment |
 | Entity | Topic |
